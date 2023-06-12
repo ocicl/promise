@@ -1,0 +1,9 @@
+* promise
+
+A simple, independent library implementing a promise mechanism for asynchronous operations
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Shinmera/promise.git |
+| commit  | 801db8f                                     |
+| systems | promise                                     |
+|---------+---------------------------------------------|
