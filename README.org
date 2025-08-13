@@ -4,6 +4,6 @@ A simple, independent library implementing a promise mechanism for asynchronous 
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/promise.git |
-| commit  | b583c99                                     |
+| commit  | 65b533d                                     |
 | systems | promise                                     |
 |---------+---------------------------------------------|
