@@ -3,7 +3,7 @@
 A simple, independent library implementing a promise mechanism for asynchronous operations
 
 |---------+---------------------------------------------|
-| source  | git:https://github.com/Shinmera/promise.git |
-| commit  | 65b533d                                     |
+| source  | git:https://codeberg.org/shinmera/promise.git |
+| commit  | 0000000                                     |
 | systems | promise                                     |
 |---------+---------------------------------------------|
